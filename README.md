@@ -1,5 +1,7 @@
 # LocalServe
 
+**Live:** [https://localservicebysam.vercel.app/](https://localservicebysam.vercel.app/)
+
 A local services marketplace. Clients book workers for home/local services, workers manage their requests, admins oversee everything. Built with React + Express + MongoDB + Socket.io.
 
 ---
